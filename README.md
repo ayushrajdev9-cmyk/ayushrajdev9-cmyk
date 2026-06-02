@@ -1,22 +1,103 @@
-# 💫 About Me:
-Hey there I’m Ayush Rajdev an 8th grade student passionate about cybersecurity and web development im focused on coding new & things building skills
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Ayush+Rajdev;8th+Grader+%7C+Builder+%7C+AI+%26+Cyber+Enthusiast;Ship+fast.+Break+things.+Learn+faster." alt="Typing Animation">
+</div>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayush6909_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AYUSH6909) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AuraAniMinX) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushrajdev9@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ayushrajdev9-cmyk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ayushrajdev9-cmyk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ayushrajdev9-cmyk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Agent%20Builder-00FFAA?style=flat-square&logo=openai&logoColor=black" alt="AI Agent Builder">
+  <img src="https://img.shields.io/badge/Cybersecurity%20Researcher-FF0000?style=flat-square&logo=security&logoColor=white" alt="Cybersecurity">
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-000000?style=flat-square&logo=github&logoColor=white" alt="Open Source">
+  <img src="https://img.shields.io/badge/8th%20Grade%20Developer-4B32C3?style=flat-square&logo=visualstudiocode&logoColor=white" alt="8th Grade Developer">
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=ayushrajdev9-cmyk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ayushrajdev9@gmail.com) 
+## 🔥 What I'm Building
 
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Stars</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ayushrajdev9-cmyk/agentic-ai-playground"><b>🤖 Agentic AI Playground</b></a></td>
+    <td>Build, test, and deploy AI agents with ReAct patterns, multi-agent orchestration, and pluggable LLMs</td>
+    <td><img src="https://img.shields.io/github/stars/ayushrajdev9-cmyk/agentic-ai-playground?style=flat-square&label=%E2%AD%90" alt="Stars"></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ayushrajdev9-cmyk/natural-shell"><b>🐚 Natural Shell</b></a></td>
+    <td>Talk to your terminal in plain English — AI-powered natural language to shell commands</td>
+    <td><img src="https://img.shields.io/github/stars/ayushrajdev9-cmyk/natural-shell?style=flat-square&label=%E2%AD%90" alt="Stars"></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ayushrajdev9-cmyk/code-context"><b>📋 Code Context</b></a></td>
+    <td>Copy code with full context for AI chats — resolves imports, types, and dependencies automatically</td>
+    <td><img src="https://img.shields.io/github/stars/ayushrajdev9-cmyk/code-context?style=flat-square&label=%E2%AD%90" alt="Stars"></td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Project
+
+```bash
+# Natural Shell - The one that usually goes viral
+pip install natural-shell
+nsh "find all node_modules and show disk usage"
+# → du -sh */node_modules 2>/dev/null | sort -rh
+# → Run? [Y/n] y
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushrajdev9-cmyk&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushrajdev9-cmyk&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=c9d1d9"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=ayushrajdev9-cmyk&theme=dark&hide_border=true&background=0D1117&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA"/>
+</div>
+
+---
+
+## 🛠️ What I Use
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+---
+
+## 🌐 Find Me
+
+<p align="center">
+  <a href="https://twitter.com/AYUSH6909"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://instagram.com/ayush6909_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://youtube.com/@AuraAniMinX"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="mailto:ayushrajdev9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://paypal.me/ayushrajdev9"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
+</p>
+
+---
+
+<div align="center">
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <img src="https://komarev.com/ghpvc/?username=ayushrajdev9-cmyk&label=Profile+Visitors&color=00FFAA&style=flat-square" alt="Profile Views"/>
+  
+  **⭐ Star my repos if you find them useful!**
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:0044FF&height=100&section=footer"/>
+</div>
