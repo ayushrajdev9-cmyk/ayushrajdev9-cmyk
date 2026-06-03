@@ -186,11 +186,16 @@ I'm a highly motivated 8th-grade student with a deep passion for **cybersecurity
 
 ---
 
-## 🏆 Achievements & Milestones
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushrajdev9-cmyk&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"/>
+  <img src="https://img.shields.io/badge/QUICKDRAW-FF4500?style=for-the-badge&logo=github&logoColor=white&labelColor=black"/>
+  <img src="https://img.shields.io/badge/YOLO-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=black"/>
+  <br/>
+  <sub>Earned: Quickdraw (closed issue/PR within 5 min) & YOLO (merged PR without review)</sub>
 </p>
+
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushrajdev9-cmyk&bg_color=0D1117&color=00FFAA&line=00FFAA&point=ffffff&area=true&hide_border=true"/>
@@ -208,14 +213,6 @@ I'm a highly motivated 8th-grade student with a deep passion for **cybersecurity
 <div align="center">
   <img width="80%" src="https://streak-stats.demolab.com/?user=ayushrajdev9-cmyk&theme=dark&hide_border=true&background=0D1117&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA"/>
 </div>
-
----
-
-## 🔥 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayushrajdev9-cmyk/ayushrajdev9-cmyk/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-</p>
 
 ---
 
