@@ -21,8 +21,7 @@
 
 <img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=ayushrajdev9-cmyk&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9&count_private=true&include_all_commits=true&custom_title=GitHub+Stats"/>
 
-**📍 Obedullaganj, Bhopal, Madhya Pradesh, India**  
-**📞 +91 9340854881**  
+**📍 Bhopal, Madhya Pradesh, India**  
 **📧 ayushrajdev9@gmail.com**  
 **🎂 13 years old | 8th Grade**
 
